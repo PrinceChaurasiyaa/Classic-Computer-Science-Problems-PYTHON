@@ -62,7 +62,7 @@ if __name__ == "__main__":
     postorder(root)
 
 
-
+# Time Complexity : O(n)
 
 # OUTPUT:
 
